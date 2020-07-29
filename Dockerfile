@@ -18,3 +18,4 @@ RUN cd /gfootball && pip3 install .
 WORKDIR '/gfootball'
 
 # Fix einfügen
+# 2. Fix Docker
